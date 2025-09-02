@@ -1,7 +1,8 @@
 public static class Kata
 {
-  
-  public static string greet() {
+
+  public static string greet()
+  {
     return "hello world!";
   }
 }
